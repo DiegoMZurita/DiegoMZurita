@@ -14,7 +14,7 @@ Soy desarrollador orientado principalmente al backend y al desarrollo full stack
 </p>
 
 <p align="center">
-Me interesa construir aplicaciones web mantenibles, APIs REST, sistemas de gestión y soluciones que integren backend, frontend, bases de datos, seguridad y testing. También cuento con conocimientos prácticos de AWS y computación en la nube obtenidos mediante AWS Cloud Quest: Cloud Practitioner.
+Me interesa construir aplicaciones web mantenibles, APIs REST, sistemas de gestión y soluciones que integren backend, frontend, bases de datos, seguridad y testing.
 </p>
 
 <hr/>
@@ -265,6 +265,3 @@ JUnit · Mockito · MockMvc · H2 · Jest · Supertest · Vitest · JMeter
 
 <hr/>
 
-
-</h3>
-```
