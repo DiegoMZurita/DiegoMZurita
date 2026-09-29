@@ -262,6 +262,3 @@ JUnit · Mockito · MockMvc · H2 · Jest · Supertest · Vitest · JMeter
 ⚛️ <strong>React: De cero a experto</strong><br/>
 🐍 <strong>Django: Crea aplicaciones web robustas con Python</strong>
 </p>
-
-<hr/>
-
