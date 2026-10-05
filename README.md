@@ -17,6 +17,13 @@ Soy desarrollador orientado principalmente al backend y al desarrollo full stack
 Me interesa construir aplicaciones web mantenibles, APIs REST, sistemas de gestión y soluciones que integren backend, frontend, bases de datos, seguridad y testing.
 </p>
 
+<p align="center">
+  🌐 Portafolio: 
+  <a href="https://mi-portafolio-backend-1yrb.onrender.com/" target="_blank">
+    https://mi-portafolio-backend-1yrb.onrender.com/
+  </a>
+</p>
+
 <hr/>
 
 <h3 align="left">Sobre mí</h3>
